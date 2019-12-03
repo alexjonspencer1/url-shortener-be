@@ -30,6 +30,7 @@
     "express": "^4.17.1",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.7.12",
+    "nginx": "0.0.0",
     "shortid": "^2.2.15",
     "valid-url": "^1.0.9"
   }
